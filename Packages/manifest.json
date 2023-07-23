@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "com.unity.animation.rigging": "1.2.1",
+    "com.unity.render-pipelines.high-definition": "15.0.6",
+    "jp.keijiro.kino.post-processing": "2.1.15",
+    "jp.keijiro.klak.math": "2.1.0",
+    "jp.keijiro.klak.motion": "1.1.0",
+    "jp.keijiro.metatex": "1.0.4",
+    "jp.keijiro.vfxgraphassets": "1.2.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ]
+}
